@@ -18,7 +18,6 @@ alias web="webstorm '$@'"
 alias zshrc="nvim ~/.zshrc"
 alias l="ls -a"
 alias ls="ls -a"
-alias cd="cd '$@' && ls"
 
 alias gaa="git add --all"
 alias gst="git status"
